@@ -1,6 +1,8 @@
 <h3>TODO</h3>
-
-mutal exclusive editing 
+<h4> wiki </h4>
+(mutal exclusive editing) fix bug like: tab crash 
+<br/>
+add admin functionality
 <br/>
 video and info  blackboard
 <br/>
@@ -10,3 +12,10 @@ upload form
 <br/>
 wiki style 
 <br/>
+
+<h4> exotalk </h4>
+multiagent sync <br/>
+db persistency <br/>
+login/identity token <br/>
+selectable channel <br/>
+

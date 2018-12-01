@@ -2,10 +2,11 @@
 
 
 <h4> Application </h4>
-<a href="https://guemkgictuqloaxb.onion" rel="nofollow">EXOTALK</a> <br/>
+<a href="https://guemkgictuqloaxb.onion/out" rel="nofollow">EXOTALK</a> <br/>
 <a href="http://txpo3zeni4ecu4sg.onion" rel="nofollow">the Wiki</a>   <br/>
 <h4> Pages </h4>
-<a href="/view/machines" rel="nofollow"> Machines List </a>
+<a href="/view/machines" rel="nofollow"> Machines List </a> <br/>
+<a href="/view/todo" rel="nofollow"> Todo </a>
 
 <h4> SSH </h4>
 
