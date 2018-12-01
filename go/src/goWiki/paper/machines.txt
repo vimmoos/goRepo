@@ -1,0 +1,78 @@
+<h1> Machines List </h1>
+
+<h4> Alan </h4>
+Architecture:        x86_64
+CPU op-mode(s):      32-bit, 64-bit
+Byte Order:          Little Endian
+Address sizes:       39 bits physical, 48 bits virtual
+CPU(s):              4
+On-line CPU(s) list: 0-3
+Thread(s) per core:  1
+Core(s) per socket:  4
+Socket(s):           1
+NUMA node(s):        1
+Vendor ID:           GenuineIntel
+CPU family:          6
+Model:               158
+Model name:          Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz
+Stepping:            9
+CPU MHz:             900.100
+CPU max MHz:         4200.0000
+CPU min MHz:         800.0000
+BogoMIPS:            7587.00
+Virtualization:      VT-x
+L1d cache:           32K
+L1i cache:           32K
+L2 cache:            256K
+L3 cache:            6144K
+
+<h4> Hema </h4>
+Architecture:        x86_64
+CPU op-mode(s):      32-bit, 64-bit
+Byte Order:          Little Endian
+Address sizes:       36 bits physical, 48 bits virtual
+CPU(s):              2
+On-line CPU(s) list: 0,1
+Thread(s) per core:  1
+Core(s) per socket:  2
+Socket(s):           1
+NUMA node(s):        1
+Vendor ID:           GenuineIntel
+CPU family:          6
+Model:               23
+Model name:          Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz
+Stepping:            6
+CPU MHz:             1999.051
+CPU max MHz:         2997.0000
+CPU min MHz:         1998.0000
+BogoMIPS:            5996.60
+Virtualization:      VT-x
+L1d cache:           32K
+L1i cache:           32K
+L2 cache:            6144K
+
+<h4> Shiva </h4>
+Architecture:        x86_64
+CPU op-mode(s):      32-bit, 64-bit
+Byte Order:          Little Endian
+Address sizes:       36 bits physical, 48 bits virtual
+CPU(s):              4
+On-line CPU(s) list: 0-3
+Thread(s) per core:  1
+Core(s) per socket:  4
+Socket(s):           1
+NUMA node(s):        1
+Vendor ID:           GenuineIntel
+CPU family:          6
+Model:               15
+Model name:          Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz
+Stepping:            11
+CPU MHz:             1600.066
+CPU max MHz:         2403.0000
+CPU min MHz:         1603.0000
+BogoMIPS:            4802.20
+Virtualization:      VT-x
+L1d cache:           32K
+L1i cache:           32K
+L2 cache:            4096K
+
